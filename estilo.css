@@ -1,0 +1,25 @@
+h1 {
+  color: red;
+  font-family: Arial, sans-serif;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 80px;
+}
+li{
+  color: red;
+}
+#laranja, #b {
+  color: orange;
+}
+
+li.fruta {
+  background-color: green;
+}
+
+li.legume {
+  background-color: darkblue;
+}
+
+li.em-falta{
+  text-decoration: line-through;
+}
